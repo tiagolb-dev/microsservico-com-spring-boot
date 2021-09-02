@@ -1,23 +1,23 @@
 # Arquitetura baseada em microsserviços com Spring Boot
 
-##Apresentação
+## Apresentação
 
 Demonstrar como funciona uma arquitetura de software baseada em microsserviços. Projeto desenvolvido em Java com Spring Boot.
 
 
-##Dependências
+## Dependências
 
 Projeto utilizando as seguintes dependências:
 
-*Spring Boot Actuator;
-*Spring Web;
-*Spring Data Elasticsearch (Access+Driver);
-*Config Server;
-*Config Client;
-*Eureka Server;
-*Gateway;
-*Spring Data Redis (Access+Driver);
-*Eureka Discovery Client.
+* Spring Boot Actuator;
+* Spring Web;
+* Spring Data Elasticsearch (Access+Driver);
+* Config Server;
+* Config Client;
+* Eureka Server;
+* Gateway;
+* Spring Data Redis (Access+Driver);
+* Eureka Discovery Client.
 
 ##Pré-requisitos
 
