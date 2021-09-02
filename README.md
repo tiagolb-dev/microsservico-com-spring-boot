@@ -19,7 +19,7 @@ Projeto utilizando as seguintes dependências:
 * Spring Data Redis (Access+Driver);
 * Eureka Discovery Client.
 
-##Pré-requisitos
+## Pré-requisitos
 
 Para o projeto funcionar precisa instalar no computador o **Elasticsearch** e o **Redis**. Há possibilidade de fazer a configuração com o Docker.
 
